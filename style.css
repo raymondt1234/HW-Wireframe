@@ -1,0 +1,24 @@
+.backeb{
+    background: #ebebeb;
+}
+.bodySection{
+    width: 495px;
+    float: left;
+}
+body{
+    clear: both;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    overflow: auto;
+}
+article{
+    color: #ebebeb;
+    background: #777;    
+}
+h1, p{
+    color: #777;
+    background: #ebebeb;
+}
